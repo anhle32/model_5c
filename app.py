@@ -8,8 +8,8 @@ import streamlit as st
 # ---- 1) set_page_config: LỆNH STREAMLIT ĐẦU TIÊN ----------------------------
 st.set_page_config(
     layout="wide",
-    page_title="Dự báo rủi ro tín dụng (5C)",
-    page_icon="🏦",
+    page_title="Mô hình 5C",
+    page_icon="💕",
 )
 
 # ---- 2) Import & hàm dùng chung ---------------------------------------------
